@@ -1,16 +1,17 @@
+from collections import deque
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
         students = deque(students)
         sandwiches = deque(sandwiches)
-        count = 0  # To track rotations without success
-
+        count =0
         while students and count < len(students):
             if students[0] == sandwiches[0]:
-                students.popleft()
                 sandwiches.popleft()
-                count = 0  # Reset if someone eats
+                students.popleft()
+                count = 0
             else:
-                students.append(students.popleft())  # Send to end
-                count += 1  # Increase unsuccessful attempts
-
+                students.append(students.popleft())
+                count += 1
         return len(students)
+
+
