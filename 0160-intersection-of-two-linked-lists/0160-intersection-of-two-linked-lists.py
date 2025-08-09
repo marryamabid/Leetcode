@@ -6,14 +6,14 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        if not headA or not headB:
+        if not headA and not haedB:
             return None
+        
+        tempA = headA
+        tempB = headB
 
-        pointerA = headA
-        pointerB = headB
+        while tempA != tempB:
+            tempA = tempA.next if tempA else headB
+            tempB = tempB.next if tempB else headA
+        return tempA
 
-        while pointerA != pointerB:
-            pointerA = pointerA.next if pointerA else headB
-            pointerB = pointerB.next if pointerB else headA
-
-        return pointerA  # Can be the intersection node or None
