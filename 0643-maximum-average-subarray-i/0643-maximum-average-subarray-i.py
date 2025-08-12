@@ -1,6 +1,7 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
-    
+        if  k == len(nums):
+            return sum(nums)/k
         maxNum = float('-inf')
         count = 0
 
