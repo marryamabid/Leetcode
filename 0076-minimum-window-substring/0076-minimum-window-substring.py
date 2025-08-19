@@ -1,37 +1,38 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if not t or not s:
+        if t == "":
             return ""
 
-        
-        t_count = Counter(t)
-        required = len(t_count)  
-        left = 0
-        formed = 0 
-        window_counts = {}
-        ans = float("inf"), None, None  
+        count = {}
+        window = {}
 
-        for right, char in enumerate(s):
-           
-            window_counts[char] = window_counts.get(char, 0) + 1
+        # Build frequency map for t
+        for c in t:
+            count[c] = 1 + count.get(c, 0)
 
-           
-            if char in t_count and window_counts[char] == t_count[char]:
-                formed += 1
+        have, need = 0, len(count)
+        res, resLen = [-1, -1], float("inf")
 
-            while left <= right and formed == required:
-                char = s[left]
+        l = 0
+        for r in range(len(s)):
+            c = s[r]
+            window[c] = 1 + window.get(c, 0)
 
-                
-                if right - left + 1 < ans[0]:
-                    ans = (right - left + 1, left, right)
+            if c in count and window[c] == count[c]:
+                have += 1
 
-             
-                window_counts[char] -= 1
-                if char in t_count and window_counts[char] < t_count[char]:
-                    formed -= 1
+            # shrink window until it's invalid
+            while have == need:
+                if (r - l + 1) < resLen:
+                    res = [l, r]
+                    resLen = r - l + 1
 
-                left += 1
+                window[s[l]] -= 1
+                if s[l] in count and window[s[l]] < count[s[l]]:
+                    have -= 1
+                l += 1
 
-        return "" if ans[0] == float("inf") else s[ans[1]:ans[2] + 1]
-        
+        l, r = res
+        return s[l:r+1] if resLen != float("inf") else ""
+
+            
