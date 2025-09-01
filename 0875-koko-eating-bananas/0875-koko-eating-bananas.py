@@ -3,19 +3,18 @@ import math
 
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        left, right = 1, max(piles)
-        res = right
+        l=1
+        r=max(piles)
+        res = max(piles)
 
-        while left <= right:
-            mid = (left + right) // 2
+        while l<= r:
+            k=(r+l)//2
             hours = 0
-            for pile in piles:
-                hours += math.ceil(pile / mid)   # time to eat this pile at speed mid
-
+            for p in piles:
+                hours += math.ceil(p/k)
             if hours <= h:
-                res = mid   # possible, try smaller speed
-                right = mid - 1
+                res = min(res,k)
+                r=k-1
             else:
-                left = mid + 1
-
+                l=k+1
         return res
