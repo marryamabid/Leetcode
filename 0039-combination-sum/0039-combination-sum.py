@@ -1,18 +1,22 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res=[]
-        def backTrack(start,target,path):
+        res = []
+
+        def backtrack(start, current, total):
+            # If the total matches target → valid combination
+            if total == target:
+                res.append(current.copy())
+                return
             
-            if target == 0 :
-                return res.append(path[:])
-            if target < 0:
-                return None
-           
-            for i in range(start,len(candidates)):
-                n=candidates[i]
-                remainder = target - n
-                path.append(n)
-                remaiderResult = backTrack(i,remainder,path)
-                path.pop()
-        backTrack(0,target,[])
+            # If total exceeds target → stop exploring
+            if total > target:
+                return
+
+            # Explore all candidates starting from `start`
+            for i in range(start, len(candidates)):
+                current.append(candidates[i])
+                backtrack(i, current, total + candidates[i])  # i, not i+1 (repetition allowed)
+                current.pop()  # backtrack
+
+        backtrack(0, [], 0)
         return res
