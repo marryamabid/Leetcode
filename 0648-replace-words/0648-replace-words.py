@@ -31,10 +31,10 @@ class Trie:
 
 class Solution:
     def replaceWords(self, dictionary, sentence):
-        curr = Trie()
+        trie = Trie()
         for word in dictionary:
            
-            trie = curr.insert(word)
+           trie.insert(word)
         res = []
         for word in sentence.split():
             res.append(curr.getRoot(word))
