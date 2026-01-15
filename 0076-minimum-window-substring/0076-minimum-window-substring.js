@@ -21,8 +21,6 @@ var minWindow = function(s, t) {
             window[c]=(window[c] || 0)+1
             if (window[c] === need[c]) valid++;
         }
-    }
-    
     while(valid === Object.keys(need).length){
         if(right-left < minLen){  
             start = left
@@ -36,5 +34,8 @@ var minWindow = function(s, t) {
         }
     }
 
+    }
+    
+    
     return minLen === Infinity ? "" : s.substring(start, start + minLen);
 };
