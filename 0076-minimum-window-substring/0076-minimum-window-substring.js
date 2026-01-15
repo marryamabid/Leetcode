@@ -4,6 +4,7 @@
  * @return {string}
  */
 var minWindow = function(s, t) {
+    if(t.length > s.length) return ""
     let need ={}
     for(let char of t){
         need[char] = (need[char] || 0)+1
