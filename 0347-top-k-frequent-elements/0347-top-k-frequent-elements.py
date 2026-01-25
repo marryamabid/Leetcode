@@ -1,20 +1,12 @@
+import heapq
+from collections import Counter
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        import heapq
-
-    # Step 1: Count frequencies
-        freq_map = Counter(nums)
-    
-    # Step 2: Create a min heap
+        hashMap = Counter(nums)
         heap = []
-    
-        for num, freq in freq_map.items():
-            heapq.heappush(heap, (freq, num))  # push tuple (frequency, number)
-        
-        # Keep heap size <= k
+        for num,count in hashMap.items():
+            heapq.heappush(heap,(count,num))
             if len(heap) > k:
                 heapq.heappop(heap)
-    
-    # Step 3: Extract elements (ignore frequencies)
-        result = [num for freq, num in heap]
-        return result
+        return [num for count,num in heap]
+        
