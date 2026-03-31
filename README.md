@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/marryamabid/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/marryamabid/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marryamabid/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/marryamabid/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -35,8 +36,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
