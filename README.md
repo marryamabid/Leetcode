@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/marryamabid/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/marryamabid/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/marryamabid/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marryamabid/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -19,6 +20,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/marryamabid/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marryamabid/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Prefix Sum
@@ -38,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -56,4 +59,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marryamabid/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
