@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/marryamabid/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/marryamabid/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/marryamabid/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marryamabid/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/marryamabid/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/marryamabid/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/marryamabid/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/marryamabid/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/marryamabid/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/marryamabid/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/marryamabid/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/marryamabid/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
