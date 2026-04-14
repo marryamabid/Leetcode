@@ -17,12 +17,11 @@ var longestPalindrome = function(s) {
             }
             l--
             r++
-        }   
-    }
-    for(let i= 0; i < s.length; i++){
+        } 
+
         //for even centre outward position
-        let l = i 
-        let r = i+1
+        l = i 
+        r = i+1
         while( l >= 0  && r< s.length && s[l] === s[r]){
             if((r-l+1)>maxLen){
                 res = s.slice(l,r+1)
@@ -30,8 +29,8 @@ var longestPalindrome = function(s) {
             }
             l--
             r++
-        }   
-    
-}
+        }  
+
+    } 
     return res
 }
