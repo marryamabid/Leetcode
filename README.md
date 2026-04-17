@@ -56,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/marryamabid/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/marryamabid/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/marryamabid/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
@@ -114,6 +115,7 @@
 | [0014-longest-common-prefix](https://github.com/marryamabid/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/marryamabid/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/marryamabid/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/marryamabid/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/marryamabid/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
