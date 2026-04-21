@@ -84,10 +84,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/marryamabid/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -121,6 +124,7 @@
 | [0076-minimum-window-substring](https://github.com/marryamabid/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/marryamabid/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/marryamabid/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
