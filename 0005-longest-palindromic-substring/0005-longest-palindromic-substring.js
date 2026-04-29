@@ -3,34 +3,30 @@
  * @return {string}
  */
 var longestPalindrome = function(s) {
-    let res = ""
-    let maxLen = 0
+    if (s.length < 2) return s;
 
-    for(let i= 0; i < s.length; i++){
-        //for odd centre outward position
-        let l = i 
-        let r = i
-        while( l >= 0  && r< s.length && s[l] === s[r]){
-            if((r-l+1)>maxLen){
-                res = s.slice(l,r+1)
-                maxLen = r-l+1
+    let start = 0;
+    let maxLength = 1;
+
+    function expand(left, right) {
+        while (left >= 0 && right < s.length && s[left] === s[right]) {
+            let currentLength = right - left + 1;
+            if (currentLength > maxLength) {
+                start = left;
+                maxLength = currentLength;
             }
-            l--
-            r++
-        } 
+            left--;
+            right++;
+        }
+    }
 
-        //for even centre outward position
-        l = i 
-        r = i+1
-        while( l >= 0  && r< s.length && s[l] === s[r]){
-            if((r-l+1)>maxLen){
-                res = s.slice(l,r+1)
-                maxLen = r-l+1
-            }
-            l--
-            r++
-        }  
+    for (let i = 0; i < s.length; i++) {
+        // Odd length palindrome (center at i)
+        expand(i, i);
 
-    } 
-    return res
-}
+        // Even length palindrome (center between i and i+1)
+        expand(i, i + 1);
+    }
+
+    return s.substring(start, start + maxLength);
+};
