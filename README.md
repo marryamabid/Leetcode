@@ -21,6 +21,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/marryamabid/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/marryamabid/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0867-transpose-matrix](https://github.com/marryamabid/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/marryamabid/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/marryamabid/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Hash Table
@@ -155,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/marryamabid/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0867-transpose-matrix](https://github.com/marryamabid/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@
 | [0074-search-a-2d-matrix](https://github.com/marryamabid/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/marryamabid/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0867-transpose-matrix](https://github.com/marryamabid/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
