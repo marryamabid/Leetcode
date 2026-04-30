@@ -17,6 +17,7 @@
 | [0079-word-search](https://github.com/marryamabid/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marryamabid/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/marryamabid/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/marryamabid/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -161,6 +162,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marryamabid/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/marryamabid/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/marryamabid/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +171,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/marryamabid/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
