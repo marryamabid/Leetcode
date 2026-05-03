@@ -83,6 +83,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/marryamabid/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/marryamabid/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/marryamabid/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -192,4 +193,8 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/marryamabid/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/marryamabid/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/marryamabid/Leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
