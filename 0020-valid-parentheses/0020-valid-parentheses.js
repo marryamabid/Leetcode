@@ -3,22 +3,26 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-   if(s.length === 0) return false
-   let hashMap = {
-        "}":"{",
-        "]":"[",
-        ")":"("
-   }
-   let stack = []
-   for(let char of s){
-       
-        if(char === "(" || char === "[" || char === "{"){
-            stack.push(char)
-        }else{
-            let top = stack.pop()
-            if(top !== hashMap[char]) return false
-        }
+    let stack = [];
+    
+    let map = {
+        ')': '(',
+        '}': '{',
+        ']': '['
+    };
 
-   }
-   return stack.length === 0 
+    for (let char of s) {
+        // if it's a closing bracket
+        if (char in map) {
+            let top = stack.pop();
+            if (top !== map[char]) {
+                return false;
+            }
+        } else {
+            // opening bracket
+            stack.push(char);
+        }
+    }
+
+    return stack.length === 0;
 };
