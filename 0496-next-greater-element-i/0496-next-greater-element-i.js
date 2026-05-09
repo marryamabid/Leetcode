@@ -4,16 +4,23 @@
  * @return {number[]}
  */
 var nextGreaterElement = function(nums1, nums2) {
-    const hashMap = new Map()
-    const stack = []
+    let stack = []
+    let map = new Map()
     for(let num of nums2){
-        while(stack.length && stack[stack.length-1] < num){
-            hashMap.set(stack.pop(),num)
+        while(stack.length > 0 && num > stack[stack.length -1]){
+            let smaller = stack.pop()
+            map.set(smaller,num)
         }
         stack.push(num)
     }
     while(stack.length){
-         hashMap.set(stack.pop(),-1)
+        map.set(stack.pop(),-1)
     }
-    return nums1.map((num)=>hashMap.get(num))
+    let res = []
+    for(let num of nums1){
+            if(map.has(num)){
+                res.push(map.get(num))
+            }
+    }
+    return res
 };
