@@ -11,18 +11,16 @@ var isValid = function(s) {
         ']': '['
     };
 
-    for (let char of s) {
-        // if it's a closing bracket
-        if (char in map) {
-            let top = stack.pop();
-            if (top !== map[char]) {
-                return false;
-            }
-        } else {
-            // opening bracket
-            stack.push(char);
+   for(let elem of s){
+    //closing bracket
+    if(map[elem]){
+        let top = stack.pop()
+        if(top!==map[elem]){
+            return false
         }
+    }else{
+        stack.push(elem)
     }
-
-    return stack.length === 0;
+   }
+   return stack.length === 0
 };
