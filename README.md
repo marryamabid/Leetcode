@@ -21,6 +21,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/marryamabid/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/marryamabid/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/marryamabid/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/marryamabid/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/marryamabid/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -35,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marryamabid/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/marryamabid/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/marryamabid/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/marryamabid/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -99,11 +101,13 @@
 | [0020-valid-parentheses](https://github.com/marryamabid/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
