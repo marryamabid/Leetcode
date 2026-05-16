@@ -4,15 +4,17 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    if(s.length !== t.length) return false
-    let maps={}
-    let mapt = {}
-    for(let i=0; i< s.length; i++){
-        maps[s[i]] = (maps[s[i]] || 0)+1
-        mapt[t[i]] = (mapt[t[i]] || 0)+1
+    if(s.length != t.length) return false
+    let sMap = new Map()
+    let tMap = new Map()
+    for(let i=0; i < s.length ;i++){
+       sMap.set(s[i],(sMap.get(s[i]) || 0)+1)
+       tMap.set(t[i],(tMap.get(t[i]) || 0)+1)
     }
-    for(let key in maps){
-        if(maps[key] !== mapt[key]) return false
+    for(let val of s){
+        if(sMap.get(val) !== tMap.get(val)){
+            return false
+        }
     }
     return true
 };
