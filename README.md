@@ -78,6 +78,7 @@
 | [0141-linked-list-cycle](https://github.com/marryamabid/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/marryamabid/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/marryamabid/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/marryamabid/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 | [0020-valid-parentheses](https://github.com/marryamabid/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/marryamabid/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/marryamabid/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/marryamabid/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
@@ -212,6 +214,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/marryamabid/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/marryamabid/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/marryamabid/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/marryamabid/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +222,5 @@
 | [0021-merge-two-sorted-lists](https://github.com/marryamabid/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/marryamabid/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/marryamabid/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/marryamabid/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
