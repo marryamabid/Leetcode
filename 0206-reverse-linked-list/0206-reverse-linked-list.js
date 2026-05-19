@@ -12,6 +12,6 @@
 var reverseList = function(head, prev=null) {
     if(head === null) return prev
     let next = head.next
-    head.next = prev
+    head.next= prev
     return reverseList(next,head)
-};
+}
