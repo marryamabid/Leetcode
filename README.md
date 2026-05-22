@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/marryamabid/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/marryamabid/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/marryamabid/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/marryamabid/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0867-transpose-matrix](https://github.com/marryamabid/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -166,6 +167,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/marryamabid/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/marryamabid/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/marryamabid/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
