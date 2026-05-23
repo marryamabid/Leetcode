@@ -44,6 +44,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/marryamabid/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/marryamabid/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/marryamabid/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/marryamabid/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/marryamabid/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/marryamabid/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/marryamabid/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
@@ -167,12 +168,14 @@
 | [0151-reverse-words-in-a-string](https://github.com/marryamabid/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/marryamabid/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/marryamabid/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/marryamabid/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/marryamabid/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/marryamabid/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/marryamabid/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/marryamabid/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/marryamabid/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/marryamabid/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Trie
