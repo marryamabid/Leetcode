@@ -31,6 +31,7 @@
 | [0867-transpose-matrix](https://github.com/marryamabid/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/marryamabid/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/marryamabid/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/marryamabid/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/marryamabid/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/marryamabid/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/marryamabid/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/marryamabid/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | [0074-search-a-2d-matrix](https://github.com/marryamabid/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/marryamabid/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/marryamabid/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/marryamabid/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/marryamabid/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/marryamabid/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/marryamabid/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/marryamabid/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
